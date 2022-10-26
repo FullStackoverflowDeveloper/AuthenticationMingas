@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040066359719",
+    "firebase_url": "https://fir-formobileclient-default-rtdb.firebaseio.com",
+    "project_id": "fir-formobileclient",
+    "storage_bucket": "fir-formobileclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040066359719:android:a0e5b236ecc76574c38682",
+        "android_client_info": {
+          "package_name": "com.example.mobileclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040066359719-8lgp5fs193j28dtu4aud1gv5rqfsooc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW7CMw4dodFGrbVfIujRd7kQyh22TxvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040066359719-8lgp5fs193j28dtu4aud1gv5rqfsooc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
